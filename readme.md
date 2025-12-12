@@ -5,6 +5,7 @@ Akhrorbek
 
 ## DEMO Video
 https://drive.google.com/file/d/1xjuA8ra3sqreUbvQcQs1-GTS4ECfxdSM/view?usp=sharing
+Please, set video quality to max in Drive to see the screen clearly. (Sorry for inconvenience)
 
 
 ## Overview

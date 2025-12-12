@@ -2,6 +2,11 @@
 ## Smart Mobility Engineering Lab.[202502-IGS3931-001]
 12214752
 Akhrorbek
+
+## DEMO Video
+https://drive.google.com/file/d/1xjuA8ra3sqreUbvQcQs1-GTS4ECfxdSM/view?usp=sharing
+
+
 ## Overview
 This project implements a complete automation system for TurtleBot3 using ROS2 Humble. The system integrates setup automation, maintenance monitoring, autonomous navigation, object detection, and a custom safety feature. All components are designed as modular ROS2 nodes and can be launched either individually or through a single automation script.
 
